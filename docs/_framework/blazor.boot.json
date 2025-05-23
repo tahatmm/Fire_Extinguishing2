@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fire_Extinguishing",
   "resources": {
-    "hash": "sha256-Uh23uhlfgf1FhkDuYV6Iywx5s9t5TGUschz/0DVOPXY=",
+    "hash": "sha256-lo87bKhO9sBtqmYAtj/TqXyFXr8e0t3bRBdoxa6pxBw=",
     "jsModuleNative": {
       "dotnet.native.8.0.16.1waf4mou55.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Fire_Extinguishing.wasm": "sha256-+foVtZZMF/jfaxPkPiZ1WvMqLZ8hjbEz4tVeY3G2XzM=",
+      "Fire_Extinguishing.wasm": "sha256-j9zY9cVAAIfT4BkYgp0Q84hSWSB7acmCaMxl7wu5CNk=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-dzswwxTfVvqZ1kXmOQSnuPXU5/dOuES3IABIuosjXSA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-gkBMnx2O8U8zQ1osj9sQMW7bnHn+tlZgYyuSUjDtNDA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-ousX3K6TlMfA1Ynw+HNIBHhiQOR/HOQ0YGa29K9ZnaQ=",
